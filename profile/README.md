@@ -1,16 +1,10 @@
 ### BlueVector AI
 
-<div align="center">
-  <a href="http://bluevector.ai/">
-    <img src="https://bluevector.ai/wp-content/uploads/2021/03/website-logo-1.png" alt="BlueVector AI Logo" height="72">
-  </a>
-  <h4>Building a Better Healthcare and Government</h4>
-</div>
+![Header](images/header.png)
 
-### Getting Started 
+### Getting Started 💫
 
-### Guidelines and Best Practices
+### Guidelines and Best Practices 🚀
 
-### Usage 
-
-### Contacts
+### Contacts 👋
+People of BlueVector AI can be found at [Google Contacts](https://contacts.google.com/directory)

@@ -1,6 +1,6 @@
 ### BlueVector AI
 
-![Header](images/header.png)
+![Header](https://raw.githubusercontent.com/BlueVector-AI/.github/develop/profile/images/header.png)
 
 ### Getting Started 💫
 
